@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my frontend development skills
 
 🚀 Live Demo
 
-🔗 Visit Portfolio: [abubakarse.netlify.app](https://abubakarse.netlify.app/)
+🔗 Visit Portfolio: [abubakarse.netlify.app]
 
 ✨ Features
 
@@ -48,6 +48,6 @@ GitHub: [AbuBakarSE](https://github.com/AbuBakarSE)
 LinkedIn: [abu-bakar-se](https://www.linkedin.com/in/abu-bakar-se/)
 
 📄 License
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 ⭐ Star this repo if you find it useful!
