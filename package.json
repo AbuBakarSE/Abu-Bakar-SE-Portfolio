@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Abu Bakar Portfolio Website",
   "scripts": {
-    "dev": "tailwindcss -i ./input.css -o ./output.css --watch",
-    "build": "tailwindcss -i ./input.css -o ./output.css --minify"
+    "dev": "tailwindcss -i ./public/input.css -o ./public/output.css --watch",
+    "build": "tailwindcss -i ./public/input.css -o ./public/output.css --minify"   
   },
   "keywords": [
     "portfolio",
